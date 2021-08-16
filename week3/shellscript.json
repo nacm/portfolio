@@ -1,0 +1,73 @@
+{
+
+	"add a shebang":{
+		"prefix": "#!",
+		"body": [
+			"#!/bin/bash"
+		],
+		"description": "Add a shebang"
+	},
+	"Black Color Code":{
+		"prefix": "Black",
+		"body": [
+			"\\033[30m"
+		],
+		"description": "Black Color"
+	},
+	
+	"Red Color Code":{
+		"prefix": "Red",
+		"body": [
+			"\\033[31m"
+		],
+		"description": "Red Color"
+	},
+	
+	"Green Color Code":{
+		"prefix": "Green",
+		"body": [
+			"\\033[32m"
+		],
+		"description": "Green Color"
+	},
+	
+	"Brow Color Code":{
+		"prefix": "Brow",
+		"body": [
+			"\\033[33m"
+		],
+		"description": "Brown Color"
+	},
+	
+	"Blue Color Code":{
+		"prefix": "Blue",
+		"body": [
+			"\\033[34m"
+		],
+		"description": "Blue Color"
+	},
+	
+	"Purple Color Code":{
+		"prefix": "Purple",
+		"body": [
+			"\\033[35m"
+		],
+		"description": "Purple Color"
+	},
+	
+	"Cyan Color Code":{
+		"prefix": "Cyan",
+		"body": [
+			"\\033[36m"
+		],
+		"description": "Cyan Color"
+	},
+	
+	"Grey Color Code":{
+		"prefix": "Grey",
+		"body": [
+			"\\033[31m"
+		],
+		"description": "Grey Color"
+	}
+}
