@@ -21,7 +21,7 @@ getNumber()
         read -p "$1: " 
     done 
     #when user enters corret number -42
-    echo "Correct!"
+    echo "Right!"
 } 
 
 #Call the function getNumber()
