@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
       
 secret='shhh' #Don't tell anyone! 
 read -s -p "what's the secret code?"     

@@ -14,7 +14,7 @@ fi
 mkdir $folderName
 
 #Ask user to enter password
-read -sp "Enter password " password
+read -sp "Enter password: " password
 
 #save the hashed password in a file called scret.txt in the folder user specified -n no newline
 echo -n $password | sha256sum >> "$folderName/secret.txt"
